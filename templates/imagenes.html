@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imágenes</title>
+    <!-- Agregar el enlace al archivo CSS de Tailwind -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100"> <!-- Cambiar el color de fondo a gris claro -->
+    <div class="container mx-auto px-4 py-8"> <!-- Agregar márgenes y centrar el contenido -->
+        <h1 class="text-3xl font-bold mb-4">Imágenes</h1> <!-- Estilo para el título -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"> <!-- Diseño de cuadrícula responsive -->
+            {% for url in urls_imagenes %}
+                <img src="{{ url }}" alt="Imagen" class="rounded-lg shadow-md"> <!-- Estilo para las imágenes -->
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

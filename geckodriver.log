@@ -1,0 +1,50 @@
+1711328351925	geckodriver	INFO	Listening on 127.0.0.1:57313
+1711328355057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\car06\\AppData\\Local\\Temp\\rust_mozprofiles6c4hi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711328356050	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711328356195	Marionette	INFO	Listening on port 57322
+WebDriver BiDi listening on ws://127.0.0.1:57314
+Read port: 57322
+1711328356588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57314/devtools/browser/a0c09ffc-fd2a-4bcd-bd7f-82b8986349d5
+JavaScript warning: https://www.amazon.com.mx/, line 2302: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81V38XlY0oL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1711328366807	Marionette	INFO	Stopped listening on port 57322
+JavaScript warning: https://www.amazon.com.mx/, line 2209: Script terminated by timeout at:
+timeout/a.ue_cel<@https://www.amazon.com.mx/:2209:88
+
+Dynamically enable window occlusion 1
+1711328421206	geckodriver	INFO	Listening on 127.0.0.1:57466
+1711328424306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\car06\\AppData\\Local\\Temp\\rust_mozprofilej4RxFb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711328425083	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711328425210	Marionette	INFO	Listening on port 57474
+WebDriver BiDi listening on ws://127.0.0.1:57467
+Read port: 57474
+1711328425557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57467/devtools/browser/dfd50b2b-d819-4395-ba83-2c260f79b20a
+JavaScript warning: https://www.amazon.com.mx/, line 2274: W1711328431747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\fiJavaScript warning: https://m.media-amazon.com/images/I/81V38XlY0oL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1711328434493	Marionette	INFO	Stopped listening on port 57474
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/41W974vG8QL._RC|71DPjh0wPxL.js,018jv7vREZL.js,01GoPxz8E9L.js,01eOvPdxG7L.js,715YAWynoUL.js,41jBieyCvYL.js,01msRYU+ZHL.js,01+pnQJuQ0L.js,21cN4KWOfCL.js,41x4GvK1lTL.js,51xGXjdT-PL.js,31J-NEfNY0L.js,11lEMI5MhIL.js,3190vMtsjaL.js,01LEzWzrPZL.js,01AqeWA7PKL.js,71-pKfDl0GL.js,41suW241oeL.js_.js?AUIClients/NavDesktopUberAsset&32BoHw4E#desktop.language-es.mx.810771-T1.878681-T1, line 121: Script terminated by timeout at:
+onEnter/A<@https://images-na.ssl-images-amazon.console.error: ({})
+DevTools listening on ws://127.0.0.1:57613/devtools/browser/ee0d8044-c84d-4840-8dad-fcfcfcef7a10
+JavaScript warning: https://www.amazon.com.mx/, line 2293: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81V38XlY0oL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1711328441200	Marionette	INFO	Stopped listening on port 57713
+JavaScript warning: https://www.amazon.com.mx/, line 112: Script terminated by timeout at:
+M/</<@https://www.amazon.com.mx/:112:55
+
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/sf-1.50.2a934b13.js, line 1: Script terminated by timeout at:
+z/</<@https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/sf-1.50.2a934b13.js:1:4338
+
+Dynamically enable window occlusion 1
