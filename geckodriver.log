@@ -48,3 +48,24 @@ JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/apesafefram
 z/</<@https://images-na.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/desktop/sf-1.50.2a934b13.js:1:4338
 
 Dynamically enable window occlusion 1
+1723181831795	geckodriver	INFO	Listening on 127.0.0.1:50121
+1723181834879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\car06\\AppData\\Local\\Temp\\rust_mozprofile25oWJj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1723181835988	Marionette	INFO	Marionette enabled
+1723181836260	Marionette	INFO	Listening on port 50188
+WebDriver BiDi listening on ws://127.0.0.1:50122
+Read port: 50188
+1723181836625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50122/devtools/browser/ae40d969-d7b6-42b6-bfc3-cf7ef92505a9
+1723181841395	Marionette	INFO	Stopped listening on port 50188
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M7FP7ZQ&gtm_auth=&gtm_preview=&gtm_cookies_win=x, line 209: Script terminated by timeout at:
+mh@https://www.googletagmanager.com/gtm.js?id=GTM-M7FP7ZQ&gtm_auth=&gtm_preview=&gtm_cookies_win=x:209:62
+d@https://www.googletagmanager.com/gtm.js?id=GTM-M7FP7ZQ&gtm_auth=&gtm_preview=&gtm_cookies_win=x:489:74
+sentryWrapped@https://www.pexels.com/assets/static/vendor/sentry-8.5.0/bundle.tracing.min.js:2:61442
+
+Dynamically enable window occlusion 1
